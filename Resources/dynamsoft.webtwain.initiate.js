@@ -4889,7 +4889,7 @@ dynamsoft.lib.win = window;
 	if (!d) {
 		d = dynamsoft.managerEnv = {}
 	}
-	d.resourcesPath = "https://dabresaad-alt.github.io/dynamsoft/";
+	d.resourcesPath = "https://dabresaad-alt.github.io/dynamsoft/Resources";
 	d.IfUpdateService = d.IfUpdateService ? true : false;
 	if (j()) {
 		j = b;
@@ -6392,7 +6392,7 @@ if (!Dynamsoft.Lib) {
 		DynamicDWTMap: {},
 		ProductKey: "",
 		Trial: true,
-		ResourcesPath: "https://dabresaad-alt.github.io/dynamsoft/",
+		ResourcesPath: "https://dabresaad-alt.github.io/dynamsoft/Resources",
 		Debug: false,
 		IfUpdateService: false,
 		AutoLoad: true,
@@ -24952,4 +24952,5 @@ var ___ii = 0,
 		})
 	}
 })(Dynamsoft.Lib, Dynamsoft.WebTwainEnv);
+
 
